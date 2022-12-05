@@ -1,4 +1,13 @@
 modules:
+    exercises/app-accelerators:
+        name: Bootstrap developing your applications
+        exit_sign: Workload
+    exercises/apply-workload:
+        name: The interface for developers for apps to be delivered through the supply chain
+        exit_sign: Path to Production
+    exercises/path-to-prod:
+        name: The supply chain
+        exit_sign: Service binding
     exercises/vmware-application-catalog-intro:
         name: Introduction to VMware Application Catalog - VAC
         exit_sign: VAC demo
@@ -8,17 +17,8 @@ modules:
     exercises/vmware-application-catalog-deploy:
         name: Deploy my image
         exit_sign: App Accelerators
-    exercises/app-accelerators:
-        name: Bootstrap developing your applications
-        exit_sign: Workload
-    exercises/apply-workload:
-        name: The interface for developers for apps to be delivered through the supply chain
-        exit_sign: Path to Production
-    exercises/path-to-prod:
-        name: The supply chain
-        exit_sign: VMware Application Catalog
     exercises/vac: 
-        name: A curated image catalog
+        name: Service Binding with the Database
         exit_sign: Summary
     workshop-summary:
         name: Workshop Summary
