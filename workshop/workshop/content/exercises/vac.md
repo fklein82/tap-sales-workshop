@@ -13,7 +13,7 @@ clear: true
 ... and configure the binding to them with the provided information in the Workload.
 ```editor:insert-lines-before-line
 file: ~/inclusion/config/workload.yaml
-line: -1
+line: 30
 text: |
     serviceClaims:
     - name: db
