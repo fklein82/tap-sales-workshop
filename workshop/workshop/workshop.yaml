@@ -1,12 +1,12 @@
 name: Markdown Sample
 modules:
   activate:
-    - exercises/vmware-application-catalog-intro
-    - exercises/vmware-application-catalog-tech
-    - exercises/vmware-application-catalog-deploy
     - exercises/app-accelerators
     - exercises/push-to-git
     - exercises/apply-workload
     - exercises/path-to-prod
+    - exercises/vmware-application-catalog-intro
+    - exercises/vmware-application-catalog-tech
+    - exercises/vmware-application-catalog-deploy
     - exercises/vac
     - workshop-summary
