@@ -13,6 +13,9 @@ You can go through all the steps the supply chain and explain what is it doing :
 5. Image Scanning - Grype - Scanning your OCI image
 6. Image Deployment
 
+
+Explain here what the application is doing and what the application will do when we will bind the DB provided by VAC
+
 After our application is deployed, we can open our application in the browser. By refreshing it, we can see that it's horizontally scaled and multiple instances are running.
 ```dashboard:open-url
 url: https://inclusion-{{ session_namespace }}.{{ ENV_TAP_INGRESS }}
