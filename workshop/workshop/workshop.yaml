@@ -1,10 +1,12 @@
-name: Markdown Sample
+name: Workshop Markdown
 modules:
   activate:
     - exercises/app-accelerators
-    - exercises/push-to-git
     - exercises/apply-workload
     - exercises/path-to-prod
+    - exercises/supplychain-concepts
+    - exercises/supplychain-security
+    - exercises/tap-gui
     - exercises/vmware-application-catalog-intro
     - exercises/vmware-application-catalog-tech
     - exercises/vmware-application-catalog-deploy

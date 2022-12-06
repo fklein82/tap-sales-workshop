@@ -4,23 +4,32 @@ modules:
         exit_sign: Workload
     exercises/apply-workload:
         name: The interface for developers for apps to be delivered through the supply chain
-        exit_sign: Path to Production
+        exit_sign: Path to Production        
     exercises/path-to-prod:
-        name: The supply chain
-        exit_sign: Service binding
+        name: Path to production
+        exit_sign: The Supply Chain - Overview
+    exercises/supplychain-concepts:
+        name: The supply chain overview
+        exit_sign: The Supply Chain - Security
+    exercises/supplychain-security:
+        name: The supply chain overview
+        exit_sign: TAP - Developer Portal
+    exercises/tap-gui:
+        name: TAP - developer portal
+        exit_sign: Vmware Application Catalog
     exercises/vmware-application-catalog-intro:
         name: Introduction to VMware Application Catalog - VAC
-        exit_sign: VAC demo
+        exit_sign: VAC Prerequisites
     exercises/vmware-application-catalog-tech:
         name: A single platform to create and manage enterprise artefacts
-        exit_sign: Image deployment
+        exit_sign: Image Deployment
     exercises/vmware-application-catalog-deploy:
-        name: Deploy my image
-        exit_sign: App Accelerators
+        name:  Image deployment
+        exit_sign: TAP Service Binding
     exercises/vac: 
         name: Service Binding with the Database
         exit_sign: Summary
     workshop-summary:
         name: Workshop Summary
-        exit_sign: Finish Workshop  
+        exit_sign: Finish Workshop
         
