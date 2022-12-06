@@ -2,7 +2,10 @@
 
 Inspired by [start.spring.io](https://start.spring.io), **Application Accelerator for VMware Tanzu** enables developers to create new applications based on templates that follow enterprise standards defined by platform engineers and architects. This accelerates how a developer goes from idea to running system with ready-made, enterprise-conformant code and configurations.
 
-Application Accelerator for VMware Tanzu is available in the VMware Tanzu Application Platform GUI, ...
+Enterprise Architects author and publish accelerator projects that provide developers and operators with ready-made, enterprise-conformant code and configurations. You can then use Application Accelerator to create new projects based on those accelerator projects.
+
+The Application Accelerator user interface (UI) enables you to discover available accelerators, configure them, and generate new projects to download.
+
 ```dashboard:open-url
 url: https://tap-gui.{{ ENV_TAP_INGRESS }}/create
 ```

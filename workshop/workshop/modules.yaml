@@ -1,18 +1,18 @@
 modules:
     exercises/app-accelerators:
-        name: Bootstrap developing your applications
-        exit_sign: Workload
+        name: Boost your applications development
+        exit_sign: App Deployment
     exercises/apply-workload:
-        name: The interface for developers for apps to be delivered through the supply chain
-        exit_sign: Path to Production        
+        name: Add your app to the supply chain
+        exit_sign: App Execution        
     exercises/path-to-prod:
-        name: Path to production
+        name: The path to production of your app
         exit_sign: The Supply Chain - Overview
     exercises/supplychain-concepts:
         name: The supply chain overview
         exit_sign: The Supply Chain - Security
     exercises/supplychain-security:
-        name: The supply chain overview
+        name: The supply chain security
         exit_sign: TAP - Developer Portal
     exercises/tap-gui:
         name: TAP - developer portal
