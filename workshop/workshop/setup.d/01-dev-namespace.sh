@@ -141,7 +141,7 @@ cat << EOF | kubectl apply -f -
 apiVersion: v1
 kind: Secret
 metadata:
-  name: git-ssh
+  name: git-https
   annotations:
     tekton.dev/git-0: https://github.com
 type: kubernetes.io/basic-auth
