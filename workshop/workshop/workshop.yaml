@@ -1,6 +1,7 @@
 name: Markdown Sample
 modules:
   activate:
+    - workshop-overview.md
     - exercises/app-accelerators
     - exercises/catalog
     - exercises/supplychain
@@ -8,3 +9,4 @@ modules:
     - exercises/where-is-my-data
     - exercises/vac-intro
     - exercises/service-binding
+    - workshop-summary.md
