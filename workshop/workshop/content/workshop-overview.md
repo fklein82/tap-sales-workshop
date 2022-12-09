@@ -1,13 +1,9 @@
 
-##### VMware Application Catalog
-**Important**: For the next sections, it is vital that you  make sure to sign-in to cloud.vmware.com with your **@vmware.com** email address and select the **"Tanzu End to End"** organization. Please be careful not to alter the services or configurations of the clusters in these environments as they are shared for the entire End to End Demo Environment.
+# Tanzu Application Platform and VMware Application Catalog demo
 
-Click below to sign in. If you can't see this organization, let us know your email address in the **#tanzu-e2e-demo** channel in Slack and we can get you added.
-```dashboard:open-url
-url: https://console.cloud.vmware.com
-```
+In this workshop I will show you a combined TAP + VAC demo and talk your through the major business outcomes from a Developer perspective.
+In order to make the workshop flow smoothly, I will start with deploying a SpringBoot application immediately so while TAP deploys it, we can look into key concepts of Tanzu Application Platform. 
 
-Open a tab to VMware Application Catalog.
-```dashboard:open-url
-url: https://marketplace.cloud.vmware.com/applicationcatalog/view?org_link=/csp/gateway/am/api/orgs/2f31c29c-e042-4ee4-8dbb-3e38b1f1eae5&orgLink=/csp/gateway/am/api/orgs/2f31c29c-e042-4ee4-8dbb-3e38b1f1eae5
-```
+So, as a Developer, I have developed an app with the help of TAP Accelerators that I will talk to you about in a minute and I now want to deploy my app in TAP by using this command:
+
+```tanzu apps workload create -f /home/eduk8s/workload.yaml -y```

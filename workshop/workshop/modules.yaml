@@ -1,35 +1,25 @@
 modules:
     exercises/app-accelerators:
-        name: Boost your applications development
-        exit_sign: App Deployment
-    exercises/apply-workload:
-        name: Add your app to the supply chain
-        exit_sign: App Execution        
-    exercises/path-to-prod:
-        name: The path to production of your app
-        exit_sign: The Supply Chain - Overview
-    exercises/supplychain-concepts:
-        name: The supply chain overview
-        exit_sign: The Supply Chain - Security
-    exercises/supplychain-security:
-        name: The supply chain security
-        exit_sign: TAP - Developer Portal
-    exercises/tap-gui:
-        name: TAP - developer portal
-        exit_sign: Vmware Application Catalog
-    exercises/vmware-application-catalog-intro:
-        name: Introduction to VMware Application Catalog - VAC
-        exit_sign: VAC Prerequisites
-    exercises/vmware-application-catalog-tech:
-        name: A single platform to create and manage enterprise artefacts
-        exit_sign: Image Deployment
-    exercises/vmware-application-catalog-deploy:
-        name:  Image deployment
-        exit_sign: TAP Service Binding
-    exercises/vac: 
+        name: TAP UI - Accelerators
+        exit_sign: TAP UI - Catalog
+    exercises/catalog:
+        name: TAP UI - Catalog
+        exit_sign: supplychain
+    exercises/supplychain:
+        name: The supply chain
+        exit_sign: securityscanning
+    exercises/security-scanning:
+        name: TAP UI - Supply Chain Security
+        exit_sign: Where is my data?
+    exercises/where-is-my-data:
+        name: Where is my data?
+        exit_sign: VAC
+    exercises/vac-intro:
+        name: VMware Application Catalog
+        exit_sign: Service Binding
+    exercises/service-binding: 
         name: Service Binding with the Database
         exit_sign: Summary
     workshop-summary:
         name: Workshop Summary
-        exit_sign: Finish Workshop
-        
+        exit_sign: End Workshop
