@@ -147,5 +147,5 @@ metadata:
 type: kubernetes.io/basic-auth
 stringData:
   username: j-kolaric
-  password: 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
+  password: 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
 EOF
