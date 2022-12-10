@@ -136,16 +136,3 @@ spec:
       owner: team-vmware-tanzu-se
       description: "A set of API endpoints to manage the resources within the inclusion app."
 EOF
-
-cat << EOF | kubectl apply -f -
-apiVersion: v1
-kind: Secret
-metadata:
-  name: git-https
-  annotations:
-    tekton.dev/git-0: https://github.com
-type: kubernetes.io/basic-auth
-stringData:
-  username: j-kolaric
-  password: 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
-EOF
