@@ -1,6 +1,6 @@
 ##### VMware Application Catalog - Introduction 
 
-As Peter (Platform Operator), I know my developers want to use middleware software, and they want to choose technology that is OpenSource (as they 💙 OpenSource). 
+As Paige (Platform Operator), I know my developers want to use middleware software, and they want to choose technology that is OpenSource (as they 💙 OpenSource). 
 They want to use software **trusted** by my organisation, **continously maintained** and **verifiably tested for use in production** environments. 
 Luckily, I have access to VMware Application Catalog to generate middleware fitting with all my company requirements. 
 
