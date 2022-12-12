@@ -7,7 +7,7 @@ I want to configure the binding to them with the provided information in the Wor
 ```editor:append-lines-to-file
 file: ~/inclusion/config/workload.yaml
 line: 30
-text: |2
+text: |
     serviceClaims:
     - name: db
       ref:
