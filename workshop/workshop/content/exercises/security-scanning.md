@@ -1,4 +1,4 @@
-**Hi :wave:. I am Fréd, the Security Auditor!**
+**Hi 👋 I am Fréd, the Security Auditor!**
 
 As a Security Auditor, I would like to see a number of principles and best practices built into the Supply Chain. 
 The out-of-the-box Supply Chain we are using, provided with TAP for the Cody's app is already implementing best practices around security.
