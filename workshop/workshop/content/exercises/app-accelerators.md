@@ -2,7 +2,7 @@
 
 So, the Platform team has deployed and pre-configured TAP for me and gave me Developer access. 
 
-Now, as Cody I have deployed my Emoji inclusion app on TAP with one command, but how did I get here in the first place?
+Now, as Julien the Dev I have deployed my Emoji inclusion app on TAP with one command, but how did I get here in the first place?
 Well, I have first opened my IDE (Integrated Developer Environment) of choice and started coding...no...wait! 
 My Software Architect team actually gave me guidance and provided me with an Application Accelerator. 
 
