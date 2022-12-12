@@ -5,7 +5,7 @@ As a customer, I love the idea that all TAP components are OpenSource. This allo
 At this stage, as a Developer I only have to worry about pushing my code to a code repository. My Platform & Security teams are in charge of configuring a TAP Supply Chain to deliver my application to production.
 
   
-**Hi 👋, I am Paige, the TAP Platform Operator!**
+**Hi 👋, I am Chiara, the TAP Platform Operator!**
 
 I am responsible to deploy TAP and make its access easy for Developers. This includes building a Supply Chain to deliver code to production and give reassurance that all code in production has passed all the steps through an approved company wide workflow. In order for me to make Developers productive, I need to be efficient, hence I would like to build Supply Chains that can be reused for other application deployments. 
 Additionally, there are internal teams that only care about using TAP with optimised and configured out-of-the-box tooling and other teams that like freedom of choice when it comes to their own CI/CD tooling. 
