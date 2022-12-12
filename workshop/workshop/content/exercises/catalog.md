@@ -15,13 +15,13 @@ I can click on my Inclusion app and access a number of information:
 1. **The Logical graph of the app**, i.e.: all the services and their relationship
    This can be found here:
 ```dashboard:open-url
-url: https://tap-gui.emea.end2end.link/catalog/default/system/emoji-world/diagram
+url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog/default/system/emoji-world/diagram
 ```
 
 3. **API Swagger definition** - a placeholder for Developers to enable API documentation in the platform
 This can be found here:
 ```dashboard:open-url
-url: https://tap-gui.emea.end2end.link/catalog/dev-space/api/gateway-emea.end2end.link/definition
+url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog/dev-space/api/inclusion-{{ ENV_TAP_INGRESS }}/definition
 ```
 
 4. **Runtime Resources** - a placeholder for Developers to see application runtime resources such as application deployment objects and logs/metrics for monitoring and debugging, but more importantly the URL where to find the app once the application is deployed. I will come back to this point later when my application will be live. 

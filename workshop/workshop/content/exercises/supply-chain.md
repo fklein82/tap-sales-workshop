@@ -1,4 +1,4 @@
-As a customer, I love the idea that all TAP components are OpenSource. This allows me not to lock myself with a specific vendor. 
+As a customer, I love the idea that all TAP components are **OpenSource**. This allows me not to lock myself with a specific vendor. 
 
 ![TAP is built with an open source-first mindset!](../images/tap-open-source-first.png)
 
@@ -20,6 +20,11 @@ This Supply Chain performs the below steps:
 5. **Image Scanning** - Scanning the OCI (Open Container Initiative) compliant container image
 6. **Container Deployment** - Deploying the application into a Kubernetes cluster
 7. **Return a URL** - Creating endpoints and exposing load balancers so the application can be accessed
+
+Let's see these steps in the UI, and check the progress:
+```dashboard:open-url
+url: https://tap-gui.{{ ENV_TAP_INGRESS }}/supply-chain/host/{{ session_namespace }}/inclusion
+```
 
 Once the application is deployed, the application can be accessed it here:
 ```dashboard:open-url
