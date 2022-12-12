@@ -4,7 +4,7 @@ modules:
     - workshop-overview
     - exercises/app-accelerators
     - exercises/catalog
-    - exercises/supplychain
+    - exercises/supply-chain
     - exercises/security-scanning
     - exercises/where-is-my-data
     - exercises/vac-intro
