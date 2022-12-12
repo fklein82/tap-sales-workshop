@@ -1,4 +1,4 @@
-**Hi 👋! my name is Cody and I am the developer of the emoji inclusion app**
+**Hi 👋! my name is Julien and I am the developer of the emoji inclusion app**
 
 So, the Platform team has deployed and pre-configured TAP for me and gave me Developer access. 
 
