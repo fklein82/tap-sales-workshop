@@ -22,9 +22,9 @@ I will check if my postgreSQL Database is generated. Let's filter on postgreSQL 
 
 ![VAC search postgreSQL](../images/vac-postgres-search.png)
 
-Cool ! The postgreSQL helm chart is already existing, ready to use by all developpers and pushed into the organization container registry... 
+Cool ! The postgreSQL helm chart is already existing, ready to use by all developers and pushed into the organization container registry... 
 
-As Cody, my App operator confirmed me the opensource Database I want to use is available, so I can deploy it :
+As Julien, my App operator confirmed me the opensource Database I want to use is available, so I can deploy it :
 
 ```terminal:execute
 command: helm install emoji oci://harbor.emea.end2end.link/vac-global-library/charts/centos-7/postgresql --set auth.database=emoji --set global.postgresql.auth.existingSecret=db-binding-compatible
