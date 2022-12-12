@@ -1,6 +1,6 @@
 ##### Service Binding
 
-As Cody, I now have my application in production along side with my Database to store all my emojis.
+As Julien, I now have my application in production along side with my Database to store all my emojis.
 I now need to bind this application to the Database so that it starts storing data into it. 
 
 I want to configure the binding to them with the provided information in the Workload.
