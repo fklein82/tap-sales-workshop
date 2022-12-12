@@ -7,7 +7,7 @@ modules:
         exit_sign: TAP UI - Catalog
     exercises/catalog:
         name: TAP UI - Catalog
-        exit_sign: supplychain
+        exit_sign: supply-chain
     exercises/supplychain:
         name: The supply chain
         exit_sign: securityscanning
