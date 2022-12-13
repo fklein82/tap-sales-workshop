@@ -22,7 +22,9 @@ This can be found here:
 url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog/dev-space/api/inclusion-{{ ENV_TAP_INGRESS }}/definition
 ```
 
-4. **Runtime Resources** - a placeholder for Developers to see application runtime resources such as application deployment objects and logs/metrics for monitoring and debugging, but more importantly, the URL where to find the app once the application is deployed. As my application still needs to be live, we'll check a previously deployed Inclusion application.
+4. **Runtime Resources** - a placeholder for Developers to see application runtime resources such as application deployment objects and logs/metrics for monitoring and debugging, but more importantly, the URL where to find the app once the application is deployed. 
+
+As my application still needs to be live, we'll check a previously deployed Inclusion application.
 This can be found here:
 ```dashboard:open-url
 url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog/default/component/inclusion/workloads
