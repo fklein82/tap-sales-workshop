@@ -1,10 +1,12 @@
 Cool... I seem to be progressing well so far!
+
 I now want to see details of my applications. 
 So I log into the TAP UI (User Interface) here:
 ```dashboard:open-url
 url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog
 ```
 If it's the first time I access the web portal, I'll have to select the Guest tile and press Enter. 
+
 I can see the TAP catalog with all the applications deployed, including my Inclusion application.
 I can click on my Inclusion app and access pieces of information:
 
