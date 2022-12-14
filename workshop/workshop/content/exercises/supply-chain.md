@@ -21,7 +21,10 @@ This Supply Chain performs the following steps:
 6. **Container Deployment** - Deploying the application into a Kubernetes cluster
 7. **Return a URL** - Creating endpoints and exposing load balancers so the application can be accessed
 
-Let's see these steps in the UI and check the progress:
+Let's see these steps in the UI and check the progress.
+
+**INSTRUCTIONS:** Click on the every box to see the Supply Chain steps as described earlier.
+
 ```dashboard:open-url
 url: https://tap-gui.{{ ENV_TAP_INGRESS }}/supply-chain/host/{{ session_namespace }}/inclusion
 ```
