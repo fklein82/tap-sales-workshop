@@ -7,6 +7,7 @@ url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog
 ```
 
 **INSTRUCTIONS**
+
 If it’s the first time you access the web portal, you’ll have to select the Guest tile and press Enter.
 
 I can see the TAP catalog with all the applications deployed, including my Inclusion application.
