@@ -16,8 +16,8 @@ command: workbench.view.extension.tanzu-app-accelerator
 
 I can now see the full list of Accelerators available to me.
 
-So, off I go and select the **Inclusion** accelerator from the list, I fill in the details that my project needs and press **Continue** until I see **Generate Project**. When I click on **Generate Project** (Click **OK** at the pop-up window), a new tab will open. The Accelerator has now generated the code in a new tab. We cn close the tab and continue to work on the IDE integrated in the workshop UI.
+So, off I go and select the **Inclusion** accelerator from the list, I fill in the details that my project needs and press **Continue** until I see **Generate Project**. When I click on **Generate Project** (Click **OK** at the pop-up window), a new tab will open. The Accelerator has now generated the code in a new tab. We can close the tab and continue to work on the IDE integrated in the workshop UI.
 
-I can now see my code organised in my IDE. The important bit here is that amongst all the Spring and config files is the workload.yaml. The Accelerator autogenerates this file following all Kubernetes manifest structures, describing how I want to deploy my app on any Kubernetes infrastructure.  
+I can now see my code organised in my IDE. The important bit here is the **workload.yaml** file.. The Accelerator autogenerates this file following all Kubernetes manifest structures, describing how I want to deploy my app on any Kubernetes infrastructure.  
 
-Now, back to the Workshop page, press **TAP UI - CATALOG** button to continue.
+Now press **TAP UI - CATALOG** button to continue.
