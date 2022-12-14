@@ -19,4 +19,4 @@ So, off I go and select the **Inclusion** accelerator from the list, I fill in t
 
 I can now see my code organised in my IDE. The important bit here is the **workload.yaml** file. The Accelerator autogenerates this file following Kubernetes manifest structure. It declares my deployment strategy to TAP that can be executed on any Kubernetes infrastructure.  
 
-**INSTRUCTIONS:** Now press **TAP UI - CATALOG** button to continue.
+**INSTRUCTIONS:** Press **TAP UI - CATALOG** button to continue.
