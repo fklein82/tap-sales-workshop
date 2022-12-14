@@ -12,20 +12,17 @@ I can see the TAP catalog with all the applications deployed, including my Inclu
 I can click on my Inclusion app and access pieces of information, such as:
 
 1. **The Logical graph of the app** - all the services and their relationship.
-   This can be found here:
 ```dashboard:open-url
 url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog/default/system/emoji-world/diagram
 ```
 
 3. **API Swagger definition** - the app API documentation.
-This can be found here:
 ```dashboard:open-url
 url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog/dev-space/api/inclusion-{{ ENV_TAP_INGRESS }}/definition
 ```
 
 4. **Runtime Resources** - to see application runtime resources such as application deployment objects and logs/metrics for monitoring and debugging. Here I can also find the application URL. 
 As my application deploys further, I will be able to see more.
-This can be found here:
 ```dashboard:open-url
 url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog/default/component/inclusion/workloads
 ```
