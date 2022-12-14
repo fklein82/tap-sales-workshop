@@ -9,6 +9,7 @@ My Software Architect team actually guided me and provided me with an Applicatio
 Inspired by [start.spring.io](https://start.spring.io), **Application Accelerators for VMware Tanzu** enables Developers like me to create new applications based on templates that follow enterprise standards defined by platform engineers and architects. This accelerates how I go from idea to production with ready-made, enterprise-conformant code and configurations without needing to read tons of docs straight away.
 
 **INSTRUCTIONS**
+
 By clicking on the below link, I will use the IDE plugin to create the Accelerator.
 ```editor:execute-command
 command: workbench.view.extension.tanzu-app-accelerator
