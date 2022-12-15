@@ -4,7 +4,8 @@ I now want to see details of my application.
 So I log into the TAP UI (User Interface) here:
 ```dashboard:create-dashboard
 name: Catalog
-url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog
+#url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog
+url: https://www.vmware.com
 ```
 
 **INSTRUCTIONS:** If it’s the first time you access the web portal, you’ll have to select the Guest tile and press Enter.
