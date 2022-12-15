@@ -17,6 +17,10 @@ I can now see the full list of Accelerators available to me.
 
 So, off I go and select the **Inclusion** accelerator from the list, I fill in the details that my project needs and press **Continue** until I see **Generate Project**. When I click on **Generate Project** (Click **OK** at the pop-up window), a new tab will open. The Accelerator has now generated the code in a new tab. We can close the tab and continue to work on the IDE integrated in the workshop UI.
 
+```editor:open-file
+file: ~/inclusion/config/workload.yaml
+```
+
 I can now see my code organised in my IDE. The important bit here is the **workload.yaml** file. The Accelerator autogenerates this file following Kubernetes manifest structure. It declares my deployment strategy to TAP that can be executed on any Kubernetes infrastructure.  
 
 **INSTRUCTIONS:** Press **TAP UI - CATALOG** button to continue.

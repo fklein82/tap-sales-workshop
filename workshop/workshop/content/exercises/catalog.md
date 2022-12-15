@@ -2,7 +2,8 @@ Cool... I seem to be progressing well so far!
 
 I now want to see details of my application. 
 So I log into the TAP UI (User Interface) here:
-```dashboard:open-url
+```dashboard:create-dashboard
+name: Catalog
 url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog
 ```
 
@@ -12,18 +13,21 @@ I can see the TAP catalog with all the applications deployed, including my Inclu
 I can click on my Inclusion app and access pieces of information, such as:
 
 1. **The Logical graph of the app** - all the services and their relationship.
-```dashboard:open-url
+```dashboard:create-dashboard
+name: App Diagram
 url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog/default/system/emoji-world/diagram
 ```
 
 3. **API Swagger definition** - the app API documentation.
-```dashboard:open-url
+```dashboard:create-dashboard
+name: API Docs
 url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog/dev-space/api/inclusion-{{ ENV_TAP_INGRESS }}/definition
 ```
 
 4. **Runtime Resources** - to see application runtime resources such as application deployment objects and logs/metrics for monitoring and debugging. Here I can also find the application URL. 
 As my application deploys further, I will be able to see more.
-```dashboard:open-url
+```dashboard:create-dashboard
+name: App Runtime Resources
 url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog/default/component/inclusion/workloads
 ```
 
