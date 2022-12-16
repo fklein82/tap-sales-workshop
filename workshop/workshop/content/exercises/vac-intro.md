@@ -9,7 +9,7 @@ With VMware Application Catalog (VAC), I will allow Julien access to a bunch of 
 **Important**: 
 - For the next sections, sign in to console.cloud.vmware.com with your **@vmware.com** email address and select the **"Tanzu End to End"** organization. Please be careful to keep the services or configurations of the clusters in these environments as they are shared for the entire End to End Demo Environment.
 
-Open a tab to VMware Application Catalog in the **"Tanzu End to End"** organization.
+Open a tab to VMware Application Catalog in the **"Tanzu End to End"** organization:
 ```dashboard:open-url
 url: https://app-catalog.vmware.com?overview&org_link=/csp/gateway/am/api/orgs/2f31c29c-e042-4ee4-8dbb-3e38b1f1eae5
 ```
