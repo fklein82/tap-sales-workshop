@@ -1,12 +1,12 @@
-Cool... I seem to be progressing well so far!
+Cool, I am progressing well so far!
 
-I now want to see details of my application. 
+I now want to see the details of my application. 
 So I log into the TAP UI (User Interface) here:
 ```dashboard:open-url
 url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog
 ```
 
-**INSTRUCTIONS:** If it’s the first time you access the web portal, you’ll have to select the Guest tile and press Enter.
+**INSTRUCTIONS:** If you access the web portal for the first time, you'll have to select the Guest tile and press Enter.
 
 I can see the TAP catalog with all the applications deployed, including my Inclusion application.
 I can click on my Inclusion app and access pieces of information, such as:
@@ -27,4 +27,4 @@ As my application deploys further, I will be able to see more.
 url: https://tap-gui.{{ ENV_TAP_INGRESS }}/catalog/default/component/inclusion/workloads
 ```
 
-Let’s now look closely at the Supply Chain, the CI/CD (Continuous Integration/Continuous Delivery) set of tools that come out-of-the-box with the TAP installation.
+Let’s now look closely at the Supply Chain, the CI/CD (Continuous Integration/Continuous Delivery) set of tools that come out of the box with the TAP installation.
