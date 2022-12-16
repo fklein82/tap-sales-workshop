@@ -1,8 +1,8 @@
-**Hi 👋! my name is Julien and I am the Developer of the Inclusion app**
+**Hi 👋! my name is Julien, and I am the Developer of the Inclusion app**
 
 So, the Platform team has deployed and pre-configured TAP for me and gave me Developer access. 
 
-Now, as Julien the Dev, I have deployed my Inclusion app on the platform with one command, but how did I get here in the first place?
+Now, as a Dev, I have deployed my Inclusion app on the platform with one command, but how did I get here in the first place?
 Well, first, I have opened my IDE (Integrated Developer Environment) of choice and started coding...no...wait! 
 My Software Architect team actually guided me and provided me with an Application Accelerator. 
 
@@ -15,7 +15,7 @@ command: workbench.view.extension.tanzu-app-accelerator
 
 I can now see the full list of Accelerators available to me.
 
-So, off I go and select the **Inclusion** accelerator from the list, I fill in the details that my project needs and press **Continue** until I see **Generate Project**. When I click on **Generate Project** (Click **OK** at the pop-up window), a new tab will open. The Accelerator has now generated the code in a new tab. We can close the tab and continue to work on the IDE integrated in the workshop UI.
+So, off I go and select the **Inclusion** accelerator from the list, I fill in the details that my project needs and press **Continue** until I see **Generate Project**. When I click on **Generate Project** (Click **OK** at the pop-up window), a new tab will open. The Accelerator has now generated the code in a new tab. We can close the tab and continue to work on the IDE integrated into the workshop UI.
 
 ```editor:open-file
 file: ~/inclusion/config/workload.yaml
